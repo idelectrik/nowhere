@@ -446,7 +446,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Willkommen auf der Raumstation \u201eNOWHERE\u201c. \nDer Name ist ein Tribut an den CCC-Kongress 2021, der uns erst zu dieser Station inspiriert hat. Die Station ist im NO WHERE aber sobald Sie sie betreten sind Sie genau richtig im NOW HERE."
+         "value":"Willkommen auf der Raumstation \u201eNOWHERE\u201c. \nDer Name ist ein Tribut an den CCC-Kongress 2021, der uns erst zu dieser Station inspiriert hat. \nDie Station ist im NO WHERE aber sobald Sie sie betreten sind Sie genau richtig im NOW HERE."
         }, 
         {
          "name":"mapImage",
