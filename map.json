@@ -29,7 +29,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"Sounds\/Hahn.mp3"
+                 "value":"Sounds\/Willkommen.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
