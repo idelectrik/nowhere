@@ -316,6 +316,11 @@
                  "value":"imagePopup"
                 }, 
                 {
+                 "name":"openImage",
+                 "type":"string",
+                 "value":"map.png"
+                }, 
+                {
                  "name":"zone",
                  "type":"string",
                  "value":"image_open_zone"
