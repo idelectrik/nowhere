@@ -474,7 +474,7 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"http:\/\/podcast.heitec-umwelttechnik.de\/Download\/atb\/index.html"
+                 "value":"https:\/\/www.galvacast.de\/Download\/atb\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
