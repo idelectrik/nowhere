@@ -472,7 +472,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"http:\/\/podcast.heitec-umwelttechnik.de\/Download\/atb\/index.html"
                 }],
