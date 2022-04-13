@@ -300,7 +300,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openwebsite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.galvacast.de\/Download\/NOWHERE\/TestMM.html"
                 }],
