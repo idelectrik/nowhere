@@ -428,7 +428,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"Work"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -456,7 +456,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"Messe"
                         }, 
                         {
                          "name":"jitsiTrigger",
