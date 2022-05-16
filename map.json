@@ -393,9 +393,9 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openTab",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/mm.tt\/map\/2291855015?t=EPE3jRlB4ahhhh"
+                         "value":"https:\/\/mm.tt\/map\/2291855015?t=EPE3jRlB4a"
                         }],
                  "type":"tilelayer",
                  "visible":true,
