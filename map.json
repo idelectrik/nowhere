@@ -393,7 +393,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/mm.tt\/map\/2291855015?t=EPE3jRlB4a"
                         }],
@@ -794,94 +794,14 @@
                      "color":"#ffff00",
                      "fontfamily":"Prisoner SF",
                      "pixelsize":21,
-                     "text":"Onboarding",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":116,
-                 "x":2369.33333333333,
-                 "y":150.5
-                }, 
-                {
-                 "height":28.3333333333334,
-                 "id":43,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "bold":true,
-                     "color":"#ffff00",
-                     "fontfamily":"Prisoner SF",
-                     "pixelsize":21,
-                     "text":"Wissensinseln",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":140,
-                 "x":2622.66666666667,
-                 "y":149.166666666667
-                }, 
-                {
-                 "height":51.0000000000001,
-                 "id":44,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "bold":true,
-                     "color":"#ffff00",
-                     "fontfamily":"Prisoner SF",
-                     "pixelsize":21,
-                     "text":"Prozess-\noptimierung",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":116,
-                 "x":2396,
-                 "y":375.833333333333
-                }, 
-                {
-                 "height":51.0000000000001,
-                 "id":46,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "bold":true,
-                     "color":"#ffff00",
-                     "fontfamily":"Prisoner SF",
-                     "pixelsize":21,
                      "text":"neue Anlage",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":116,
-                 "x":2598.66666666667,
-                 "y":377.166666666667
-                }, 
-                {
-                 "height":51.0000000000001,
-                 "id":47,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "bold":true,
-                     "color":"#ffff00",
-                     "fontfamily":"Prisoner SF",
-                     "pixelsize":21,
-                     "text":"Kosten-\noptimierung",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":116,
-                 "x":2656,
-                 "y":290.5
+                 "width":133.333333333333,
+                 "x":2369.33333333333,
+                 "y":150.5
                 }, 
                 {
                  "height":32.3333333333333,
@@ -921,6 +841,38 @@
                  "width":94.6666666666667,
                  "x":1784,
                  "y":682.5
+                }, 
+                {
+                 "height":19,
+                 "id":55,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hallo Welt",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":2341.33333333333,
+                 "y":145.166666666667
+                }, 
+                {
+                 "height":19,
+                 "id":56,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hallo Welt",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":2341.33333333333,
+                 "y":145.166666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -965,7 +917,7 @@
          "y":0
         }],
  "nextlayerid":91,
- "nextobjectid":52,
+ "nextobjectid":62,
  "orientation":"orthogonal",
  "properties":[
         {
