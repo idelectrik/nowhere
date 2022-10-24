@@ -313,6 +313,11 @@
                          "value":false
                         }, 
                         {
+                         "name":"closeTriggerMessage",
+                         "type":"string",
+                         "value":"Sie m\u00fcssen den Code eingeben"
+                        }, 
+                        {
                          "name":"code",
                          "type":"string",
                          "value":"333"
@@ -321,6 +326,11 @@
                          "name":"doorVariable",
                          "type":"string",
                          "value":"Escape_Door"
+                        }, 
+                        {
+                         "name":"openTriggerMessage",
+                         "type":"string",
+                         "value":"Sie betreten den Escape Room"
                         }, 
                         {
                          "name":"zone",
@@ -1005,12 +1015,12 @@
                         {
                          "name":"default",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }, 
                         {
                          "name":"door",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }, 
                         {
                          "name":"openLayer",
