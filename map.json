@@ -305,7 +305,7 @@
                         {
                          "name":"Zone",
                          "type":"string",
-                         "value":"Flur"
+                         "value":"Flur_A"
                         }, 
                         {
                          "name":"openPopup",
