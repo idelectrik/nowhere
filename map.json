@@ -1002,7 +1002,7 @@
                         {
                          "name":"closeLayer",
                          "type":"string",
-                         "value":"door_closed"
+                         "value":"door_close"
                         }, 
                         {
                          "name":"default",
