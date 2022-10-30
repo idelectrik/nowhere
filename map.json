@@ -338,7 +338,7 @@
                         {
                          "name":"autoOpen ",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }, 
                         {
                          "name":"doorVariable",
@@ -1024,6 +1024,11 @@
                          "name":"closeLayer",
                          "type":"string",
                          "value":"door_closed"
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":true
                         }, 
                         {
                          "name":"door",
