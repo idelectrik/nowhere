@@ -336,6 +336,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"autoOpen ",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"doorVariable",
                          "type":"string",
                          "value":"Escape_Door"
