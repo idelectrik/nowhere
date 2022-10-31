@@ -303,6 +303,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"autoClose",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
                          "name":"autoOpen ",
                          "type":"bool",
                          "value":true
