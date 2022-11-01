@@ -305,7 +305,7 @@
                         {
                          "name":"autoClose",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"autoOpen ",
@@ -325,7 +325,7 @@
                         {
                          "name":"zone",
                          "type":"string",
-                         "value":"door_open_zoneA"
+                         "value":"Eingang"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -368,7 +368,7 @@
                         {
                          "name":"zone",
                          "type":"string",
-                         "value":"door_open_zoneB"
+                         "value":"Ausgang"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1388,7 +1388,7 @@
                  "id":189,
                  "properties":[
                         {
-                         "name":"collidies",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1397,7 +1397,7 @@
                  "id":205,
                  "properties":[
                         {
-                         "name":"collidies",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
