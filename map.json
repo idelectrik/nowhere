@@ -351,6 +351,11 @@
                          "value":false
                         }, 
                         {
+                         "name":"code",
+                         "type":"string",
+                         "value":"12345"
+                        }, 
+                        {
                          "name":"doorVariable",
                          "type":"string",
                          "value":"Escape_Door"
