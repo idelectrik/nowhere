@@ -2025,6 +2025,16 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/1kR9UUSArX8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"M\u00f6chten Sie das Tutorial-Video starten? Dr\u00fccken Sie eine Taste."
                         }],
                  "type":"tilelayer",
                  "visible":true,
