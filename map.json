@@ -5736,14 +5736,14 @@
                  "value":true
                 }, 
                 {
+                 "name":"autoOpen",
+                 "type":"bool",
+                 "value":false
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"Escape_Door"
-                }, 
-                {
-                 "name":"dorrTriggerMessage",
-                 "type":"string",
-                 "value":"onaction"
                 }, 
                 {
                  "name":"openTriggerMessage",
@@ -5883,6 +5883,11 @@
                  "value":true
                 }, 
                 {
+                 "name":"autoOpen",
+                 "type":"bool",
+                 "value":false
+                }, 
+                {
                  "name":"code",
                  "type":"string",
                  "value":"333"
@@ -5891,6 +5896,11 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"Escape_Door"
+                }, 
+                {
+                 "name":"openTriggerMessage",
+                 "type":"string",
+                 "value":"Geben Sie den Code ein!"
                 }, 
                 {
                  "name":"zone",
