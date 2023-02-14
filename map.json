@@ -5895,7 +5895,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"Escape_Door"
+                 "value":"EscapeDoor"
                 }, 
                 {
                  "name":"openTriggerMessage",
