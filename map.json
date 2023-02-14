@@ -5746,6 +5746,11 @@
                  "value":"EscapeDoor"
                 }, 
                 {
+                 "name":"openTriggerMessage",
+                 "type":"string",
+                 "value":"Wollen Sie den Raum wirklich betreten und sich der Herausforderung stellen?"
+                }, 
+                {
                  "name":"tag",
                  "type":"string",
                  "value":"editor"
@@ -7843,7 +7848,7 @@
          "y":0
         }],
  "nextlayerid":134,
- "nextobjectid":71,
+ "nextobjectid":72,
  "orientation":"orthogonal",
  "properties":[
         {
