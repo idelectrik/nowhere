@@ -6893,7 +6893,7 @@
                  "y":2058.02691164713
                 }, 
                 {
-                 "class":"",
+                 "class":"variable",
                  "height":0,
                  "id":67,
                  "name":"EscapeDoor",
@@ -7805,7 +7805,7 @@
          "y":0
         }],
  "nextlayerid":133,
- "nextobjectid":68,
+ "nextobjectid":69,
  "orientation":"orthogonal",
  "properties":[
         {
